@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ROSP Practice Project</title>
+</head>
+<body>
+    <h1>Welcome to My ROSP Assignment Project</h1>
+    <p>This repository is created for Git and GitHub practice.</p>
+</body>
+</html>
